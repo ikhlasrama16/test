@@ -1,2 +1,4 @@
 commit pertama
 commit ke setengah
+commit kedua
+commit ketiga
